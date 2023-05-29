@@ -9,7 +9,7 @@ green/square: sc-xyEjG cmcjVO sc-eUWgFQ ktBGGk
 var kahootgpt = (function () {
     var kgptmini = false;
 
-    var paid = false;
+    var paid = true;
     var toggled = false;
 
     let ques = "";
